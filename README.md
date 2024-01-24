@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repo 
 <br>
-Author - Thaddeus Jalsaman
+Author - Thaddeus Fernandes  (Jalsaman)
